@@ -1,0 +1,15 @@
+For Frontent to backend:
+
+ - ReceiveOrder (POST)
+ - DeleteOrder (POST)
+ - ChangePriority (in V3)
+
+For Backend to Controller:
+
+ - LoadConfiguration (POST)
+ - StorageEmtpied (POST)
+
+For Controller to Backend:
+
+ - GetNextDrink (GET)
+ - FinishedDrink (GET)

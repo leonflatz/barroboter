@@ -1,0 +1,52 @@
+[
+    {
+        "Id": 1,
+        "Name": "Cola",
+        "hasAlcohol": false
+    },
+    {
+        "Id": 2,
+        "Name": "Lemonade",
+        "hasAlcohol": false
+    },
+    {
+        "Id": 3,
+        "Name": "Whiskey",
+        "hasAlcohol": true
+    },
+    {
+        "Id": 4,
+        "Name": "Rum",
+        "hasAlcohol": true
+    },
+    {
+        "Id": 5,
+        "Name": "Tequila",
+        "hasAlcohol": true
+    },
+    {
+        "Id": 6,
+        "Name": "Apple Juice",
+        "hasAlcohol": false
+    },
+    {
+        "Id": 7,
+        "Name": "Cranberry Juice",
+        "hasAlcohol": false
+    },
+    {
+        "Id": 8,
+        "Name": "Beer",
+        "hasAlcohol": true
+    },
+    {
+        "Id": 9,
+        "Name": "Champagne",
+        "hasAlcohol": true
+    },
+    {
+        "Id": 10,
+        "Name": "Milk",
+        "hasAlcohol": false
+    }
+]

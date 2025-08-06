@@ -1,0 +1,72 @@
+[
+    {
+        "Id": 1,
+        "Name": "Whiskey Cola",
+        "Ingredients": [
+            {
+                "LiquidId": 3,
+                "amount": 50.0
+            },
+            {
+                "LiquidId": 1,
+                "amount": 150.0
+            }
+        ]
+    },
+    {
+        "Id": 2,
+        "Name": "Rum Lemonade",
+        "Ingredients": [
+            {
+                "LiquidId": 4,
+                "amount": 60.0
+            },
+            {
+                "LiquidId": 2,
+                "amount": 140.0
+            }
+        ]
+    },
+    {
+        "Id": 3,
+        "Name": "Tequila Sunrise",
+        "Ingredients": [
+            {
+                "LiquidId": 5,
+                "amount": 50.0
+            },
+            {
+                "LiquidId": 7,
+                "amount": 150.0
+            }
+        ]
+    },
+    {
+        "Id": 4,
+        "Name": "Beer Float",
+        "Ingredients": [
+            {
+                "LiquidId": 8,
+                "amount": 200.0
+            },
+            {
+                "LiquidId": 10,
+                "amount": 50.0
+            }
+        ]
+    },
+    {
+        "Id": 5,
+        "Name": "Apple Champagne",
+        "Ingredients": [
+            {
+                "LiquidId": 6,
+                "amount": 100.0
+            },
+            {
+                "LiquidId": 9,
+                "amount": 100.0
+            }
+        ]
+    }
+]

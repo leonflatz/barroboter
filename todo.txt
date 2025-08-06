@@ -1,0 +1,57 @@
+Storage:
+
+
+Liquids:
+    - Id : int
+    - Name : string
+    - hasAlcohol : bool
+
+Beverages:
+    - Id : int
+    - Name : string
+    - Ingredients : List
+        per Item:
+        - LiquidId (cross reference) : int
+        - amount : float (in 2.5 steps)
+
+ActiveSetup:
+    - Location ( 0 - 7 | 8 - 10)
+    - LiquidId : int
+
+Status:
+    InQueue: List
+        ID : int
+        BeverageId : int
+        AtIndex : int (defines in which place in the queue)
+    InProgress : List
+        ID : int
+        BeverageId : int
+    InStorage : List
+        ID : int
+        BeverageId: int
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,34 @@
+{
+  "configurations": [
+    {
+      "config_id": 1,
+      "name": "Standard-Anordnung",
+      "bottle_arrangement": [
+        {
+          "position": 1,
+          "bottle_id": 101
+        },
+        {
+          "position": 2,
+          "bottle_id": 102
+        },
+        {
+          "position": 3,
+          "bottle_id": 103
+        },
+        {
+          "position": 4,
+          "bottle_id": 104
+        },
+        {
+          "position": 5,
+          "bottle_id": 105
+        },
+        {
+          "position": 6,
+          "bottle_id": 106
+        }
+      ]
+    }
+  ]
+}

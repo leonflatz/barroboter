@@ -1,0 +1,28 @@
+{
+  "bottles": [
+    {
+      "id": 101,
+      "name": "Vodka"
+    },
+    {
+      "id": 102,
+      "name": "Gin"
+    },
+    {
+      "id": 103,
+      "name": "Tequila"
+    },
+    {
+      "id": 104,
+      "name": "Rum"
+    },
+    {
+      "id": 105,
+      "name": "Whiskey"
+    },
+    {
+      "id": 106,
+      "name": "Stroh 60"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "cocktails": [
+    {
+      "id": 1,
+      "name": "Long Island Iced Tea",
+      "ingredients": [
+        {
+          "bottle_id": 101,
+          "amount": 1
+        },
+        {
+          "bottle_id": 102,
+          "amount": 1
+        },
+        {
+          "bottle_id": 103,
+          "amount": 1
+        },
+        {
+          "bottle_id": 104,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Black Russian",
+      "ingredients": [
+        {
+          "bottle_id": 101,
+          "amount": 2
+        },
+        {
+          "bottle_id": 106,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Brave Bull",
+      "ingredients": [
+        {
+          "bottle_id": 103,
+          "amount": 2
+        },
+        {
+          "bottle_id": 106,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Barracuda",
+      "ingredients": [
+        {
+          "bottle_id": 104,
+          "amount": 2
+        },
+        {
+          "bottle_id": 106,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Godfather",
+      "ingredients": [
+        {
+          "bottle_id": 105,
+          "amount": 2
+        },
+        {
+          "bottle_id": 106,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Mojito",
+      "ingredients": [
+        {
+          "bottle_id": 104,
+          "amount": 2
+        }
+      ]
+    }
+  ]
+}
